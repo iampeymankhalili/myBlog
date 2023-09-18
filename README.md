@@ -28,7 +28,7 @@ php artisan migrate
 php artisan db:seed
 
 ```
-## Of course, instead of running Seder, you can enter data manually.
+## Of course, instead of running Seeder, you can enter data manually.
 
 * Run
 ```
