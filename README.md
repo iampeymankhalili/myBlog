@@ -13,7 +13,7 @@ In this project, I used a ready-made template that I downloaded from [this link]
 
 ## Getting Started
 * To start and run this program, you must first install Laravel.
-Go to the [Laravel site]([https://www.python.org/](https://laravel.com/docs/10.x/installation)) and see how to install it.
+Go to the [Laravel site]([https://www.python.org/](https://laravel.com/docs/10.x/installation) and see how to install it.
 * After that, clone this project.
 * Now run the following commands in your terminal
 * After that, clone this project.
