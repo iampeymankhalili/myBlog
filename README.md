@@ -15,9 +15,9 @@ In this project, I used a ready-made template that I downloaded from [this link]
 * To start and run this program, you must first install Laravel.
 Go to the [Laravel site](https://laravel.com/docs/10.x/installation) and see how to install it.
 * After that, clone this project.
-* Now run the following commands in your terminal
 * After that, clone this project.
 * Then make the settings related to the database.
+* Now run the following commands in your terminal
 * migration
 ```
 php artisan migrate
